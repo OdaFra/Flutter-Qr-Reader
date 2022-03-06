@@ -4,7 +4,7 @@
         android:label="qr_reader"
         android:icon="@mipmap/ic_launcher">
          <meta-data android:name="com.google.android.geo.API_KEY"
-               android:value="AIzaSyA3f_w1s6EioYlSfCjJ6YXz1Oqnj0AR-c8"/>
+               android:value=""/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
